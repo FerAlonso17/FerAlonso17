@@ -14,18 +14,20 @@
 
 <img align="center" src="https://media.giphy.com/media/n94wn2zANUnU3Q4di0/giphy.gif?cid=ecf05e47f3jd05nj21t5231e3ybyiqaqypz1m1rdclwsdluk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+Hello world, I'm a programming enthusiast and a graduate of Systems Engineering and Computer Science. I'm currently expanding and enriching my knowledge in both front-end and back-end development, and I'm looking for a position as a developer at a company where I can thrive. I also love learning and exploring various technological trends and constantly seeking innovative solutions given that as a well-known YouTuber and programmer once said, we program not to solve problems, but to create solutions.
 
 <img align="right" width=300px alt="Computing" src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif?cid=ecf05e47p7cc84cl268a05935mrmbm14z3w0h4uc0bre2xpp&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+- In my repositories:
+  - I have developed projects in ReactJs with different technologies.
+  - I have acquired knowledge in JavaScript, NodeJs, ExpressJs, SQL and NoSQL.
+  - Typescript has been used in almost all of the projects.
+  - I have used custom hooks, schemas, reusable components, rest API, react query, among others
+- I'm always constantly learning about this career.
+- I have qualities such as quick adaptation, high performance, leadership, responsibility, and many others that would surely contribute greatly to your technological solutions.<br>
+- I've been learning Next.Js lately.
+- Outside of technology, I love playing video games, listening to music, doing calisthenics, and of course watching The Simpsons and other series and movies.
+- 📫 Also can you reach out to me at: <a href="fernando17995@gmail.com">fernando17995@gmail.com</a>
 
 <div>
 <br>
