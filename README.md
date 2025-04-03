@@ -1,13 +1,18 @@
-<h1 align="center"><b>/** Hey there! I'm Fernando Alonso 👋 */</b></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%519bff&size=35&center=true&vCenter=true&width=750&height=100&lines=/**+Hey+there+I'm+Fernando+Alonso+👋+*/"></a>
+</p>
+
 <div align="center">
-  <i>Take a seat to see my profile.</i>
+  <i>Welcome, take a seat to see my profile.</i>
   <img align="center" width=250px alt="Seat" src="https://media.giphy.com/media/oWjyixDbWuAk8/giphy.gif?cid=790b7611non01xht41tn9g8pxgwuym9okmo8i09rehf0j8nq&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 <br>
-<!--
-  <img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif?cid=ecf05e47p7cc84cl268a05935mrmbm14z3w0h4uc0bre2xpp&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-  -->
-<!--  -->
+
+<h2>import {FerAlonso} from "devs"</h2>
+
+<details>
+
+<summary>function FerAlonso(){</summary>
 
 <img align="center" src="https://media.giphy.com/media/n94wn2zANUnU3Q4di0/giphy.gif?cid=ecf05e47f3jd05nj21t5231e3ybyiqaqypz1m1rdclwsdluk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100px">&nbsp;***About me***
 
@@ -74,10 +79,14 @@ I am a computer engineering student, currently halfway through my degree. I am e
   </a> &nbsp;&nbsp;
   
 <p>
+</details>
+
+}
 
 <!--
+<h1 align="center"><b>/** Hey there! I'm Fernando Alonso 👋 */</b></h1>
 **FerAlonso17/FerAlonso17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Always+learning+new+things
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
