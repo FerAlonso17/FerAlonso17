@@ -9,10 +9,8 @@
 <br>
 
 <h2>import {FerAlonso} from "devs"</h2>
-
-<details>
-
-<summary>function FerAlonso(){</summary>
+<br>
+<h2>function FerAlonso(){</h2>
 
 <img align="center" src="https://media.giphy.com/media/n94wn2zANUnU3Q4di0/giphy.gif?cid=ecf05e47f3jd05nj21t5231e3ybyiqaqypz1m1rdclwsdluk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100px">&nbsp;***About me***
 
@@ -30,7 +28,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
 
 <div>
+<br>
 <h2> Tools & Technologies </h4>
+<br>
 <div>
   <img align="right" width=350px alt="languajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerAlonso17&layout=compact&theme=dark" />
  
@@ -53,11 +53,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <img align="left" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">  
 
-
-
 <br><br><br><br>
 
-  <h2>You can connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>You can connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
   <a href="fernando17995@gmail.com" >
@@ -68,11 +66,15 @@ I am a computer engineering student, currently halfway through my degree. I am e
     <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 <p>
-</details>
 
-}
+<h2>}</h2>
 
 <!--
+<div align="left">
+  <i align="center"><b>//OPEN THE FUNCTION FOR SEE</b></i>
+  <img align="center" width=100px alt="Open" src="https://media.giphy.com/media/SEgrWbhtCUSuhlqsSy/giphy.gif?cid=ecf05e47epi8ozciistq0tgss9ig14bx3flsz014mtlj96h5&ep=v1_stickers_search&rid=giphy.gif&ct=ts" />
+</div>
+<br><br>
 <h1 align="center"><b>/** Hey there! I'm Fernando Alonso 👋 */</b></h1>
 **FerAlonso17/FerAlonso17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Always+learning+new+things
